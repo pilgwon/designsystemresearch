@@ -35,7 +35,7 @@
 | [ExtReact](https://www.sencha.com/products/extreact/#app) | 👍 | 👍 | 👍 |  | **Reviewed**
 | [Firefox Photon Design System](http://design.firefox.com/photon) | 👍 | 👍 | 👍 |  | Reject-Too limiting
 | [FutureLearn Pattern Library](https://www.futurelearn.com/pattern-library) | 👍 |  |  |  | Reject-Geared for MOOC website
-| [GitHub Primer](http://primercss.io/) | 👍 |  |  |  | Great but just a SCSS library
+| [GitHub Primer](https://primer.style) | 👍 |  |  |  | Great but just a SCSS library
 | [Google Material Design](https://material.io/guidelines/#introduction-goals) | 👍 | 👍 |  |  | Reviwed with BluePrint
 | [GOV.UK Service Manual](https://www.gov.uk/service-manual) | 👍 |  |  |  | Reject-Geared for Govt Wbsite
 | [Help Scout](http://style.helpscout.com/) | 👍 | 👍 |  |  | Reject-Only CSS Framework
